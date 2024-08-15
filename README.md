@@ -16,8 +16,3 @@ Click the button below to deploy this repository to Vercel.
     This playlist is currently only supported by OTT Navigator, TiviMate (latest version), Sparkle, and Ultimate IPTV Loader.
 </div>
 
-## Join Our Telegram
-
-Stay updated and join our community on Telegram by clicking the button below.
-
-[![Join Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram)](https://t.me/officialdrmlive)
